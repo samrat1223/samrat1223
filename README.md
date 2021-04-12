@@ -7,7 +7,7 @@
   </a>
   
   <br />
-  Hi, I'm [Samrat Ganguly] (https://samrat-ganguly-portfolio.netlify.app), a passionate self-taught Full Stack web developer and a pre final year engineering student from India. My passion for software lies with dreaming up ideas and implementing them with excellent interfaces.
+  Hi, I'm [Samrat Ganguly](https://samrat-ganguly-portfolio.netlify.app/), a passionate self-taught Full Stack web developer and a pre final year engineering student from India. My passion for software lies with dreaming up ideas and implementing them with excellent interfaces.
 I am also an open-source enthusiast . I learned a lot from the open-source community and I just started some contribution to the open source competitions and any help from peers to start contributing to any open-source project will be good for me . .
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="320" />

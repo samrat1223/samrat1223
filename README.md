@@ -12,9 +12,9 @@ I am also an open-source enthusiast . I learned a lot from the open-source commu
 
   <img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="320" />
 
-- 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning MERN Stack  
-- 💞️ I’m looking to collaborate on MERN Stack related projects
+- 👀 I’m interested in Web Technologies . 
+- 🌱 I’m currently learning Spring MVC .   
+- 💞️ I’m looking to collaborate on full stack related projects . 
 - 📫 How to reach me -->  Email : samratganguly37@gmail.com 
 - 📝 [Resume](https://docs.google.com/document/d/1YMA5vhbS6UkGZ7pJj7Gx0PwT6L4tpfYB9lDRkMEBDrI/edit?usp=sharing)
 

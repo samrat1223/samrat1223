@@ -16,7 +16,7 @@ I am also an open-source enthusiast . I learned a lot from the open-source commu
 - 🌱 I’m currently learning Spring MVC .   
 - 💞️ I’m looking to collaborate on full stack related projects . 
 - 📫 How to reach me -->  Email : samratganguly37@gmail.com 
-- 📝 [Resume](https://docs.google.com/document/d/1YMA5vhbS6UkGZ7pJj7Gx0PwT6L4tpfYB9lDRkMEBDrI/edit?usp=sharing)
+- 📝 [Resume](https://docs.google.com/document/d/1TRlFeiRkyEMwNuf3vQeBxuhHR8RxqD8w5PcH4XtjFAk/edit?usp=sharing)
 
 **Languages and Tools:**
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
